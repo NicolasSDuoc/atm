@@ -1,0 +1,4 @@
+kreait_firebase:
+    projects:
+        my_project:
+            credentials: '..\config\ATMProyectKey.json'
