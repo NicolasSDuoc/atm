@@ -2,3 +2,4 @@ kreait_firebase:
     projects:
         my_project:
             credentials: '..\config\ATMProyectKey.json'
+            database_uri: 'https://atm-test-b4ba2-default-rtdb.firebaseio.com'
